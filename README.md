@@ -1,29 +1,18 @@
-# EDGEDETECTION
+# EX-7 EDGEDETECTION
 
-## Aim:
+### Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
-## Software Required:
+### Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:
-### Step1:
-<br>
+### Algorithm:
 
-
-### Step2:
-<br>
-
-### Step3:
-<br>
-
-### Step4:
-<br>
-
-### Step5:
-<br>
-
- 
+- Step1: Import the require libraries.
+- Step2: Read the image and convert the bgr image to gray scale image.
+- Step3: Apply various filter methods.
+- Step4: Display the Output Images.
+- Step5: End the Program.
 ## Program:
 
 ``` Python
