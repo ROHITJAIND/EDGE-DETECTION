@@ -1,6 +1,6 @@
 # EX-7 EDGEDETECTION
 ### Aim:
-To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
+To perform edge detection using Sobel, Laplacian, and Canny edge detectors. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:** 27.09.2023
 ### Software Required:
 Anaconda - Python 3.7
 ### Algorithm:
